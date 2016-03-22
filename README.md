@@ -16,6 +16,4 @@ The `#parrot` method should have a default argument of `"Squawk!"`.
 **Note:** *This lab is explicitly testing your ability to control the return value of a method, not just what it does, but what it returns. Remember, return values are important. Ask yourself? what is the return value of `#print`?*
 
 ## Resources
-* [Skorks Blog - Arguments With Default Value](http://www.skorks.com/2009/08/method-arguments-in-ruby/)
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/parrot-ruby' title='Parrot'>Parrot</a> on Learn.co and start learning to code for free.</p>
+* [Arguments With Default Value](http://www.diveintopython.net/power_of_introspection/optional_arguments.html)

@@ -14,8 +14,8 @@ class TestParrot(unittest.TestCase):
         # Need help figuring out how to test stdout...
 
     def test_parrot_with_args(self):
-        self.assertEqual(parrot("hello"), "Pretty Bird!")
-        self.assertEqual(parrot("hi Parrot"), "Pretty Bird!")
+        self.assertEqual(parrot("hello"), "hello")
+        self.assertEqual(parrot("hi Parrot"), "hi Parrot")
 
 
 
